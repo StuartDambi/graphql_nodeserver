@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "booknap",
   "version": "1.0.0",
   "description": "This is a graphql test application",
   "main": "index.js",
@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0",
     "nodemon": "^2.0.2"
   }
 }
